@@ -18,4 +18,3 @@
 * json: print JSON in a good format
 * log file: create a log.txt file in base directory with outputs and time of generating log file will be in header of log file
 
-## Time it took to finish: 3 hours
