@@ -1,6 +1,6 @@
 # Simple data mapping
 
-## Dependencies: pydantic, bs4
+## Dependencies: pydantic, bs4, requests
 * python -m pip install pydantic bs4 requests
 
 ## How to run:
